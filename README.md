@@ -1,0 +1,3 @@
+# app_spider
+抓取豆果美食食谱数据,抓取抖音个人主页视频,通过mitmdump抓取个人粉丝数据,通过appium和多进程实现模拟滑动和多台设备的同时抓
+fighting
