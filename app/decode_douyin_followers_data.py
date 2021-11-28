@@ -1,4 +1,4 @@
-# 导入各种第三库
+# 导入各种第三方库
 from pymongo import MongoClient
 import json
 
