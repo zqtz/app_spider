@@ -2,7 +2,7 @@
 from pymongo import MongoClient
 import json
 
-#cmd命令行输入mitmdunp -s xxx/data.py路径 -p port(代理端口)
+#cmd命令行输入mitmdump -s xxx/data.py路径 -p port(代理端口)
 def response(flow):
     # 判断粉丝请求链接是否在请求的url中
     if 'aweme/v1/user/follower/list/' in flow.request.url:
